@@ -1,0 +1,8 @@
+{
+  "appId": "com.cricketcamlive.app",
+  "appName": "CricketCam Live",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
